@@ -1694,4 +1694,4 @@ for m = 1:num_modes
     result.mode(m).integral = integral_val;
 end
 % --- 4. Salvar tudo em um único arquivo .mat ---
-save("resultados_TMT_modes.mat", "result");
+save("results_TMT_modes.mat", "result");
