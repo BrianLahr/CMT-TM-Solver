@@ -4,7 +4,7 @@ In this repository, there are two version implemented for the Coupled Mode Theor
 ### To run the first version
 1. Run the TMT_solver with the structure you wish to analyse
 2. Verify if a file "results_TMT_modes.mat" as appeard in your directory
-3. Run the CMT_TMT file (making sure it is in the same directory)
+3. Run the CMT_from_TMT file (making sure it is in the same directory)
 
 ### To run the second version
 1. Run the file CMT_perturbation file
