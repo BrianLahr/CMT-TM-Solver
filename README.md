@@ -1,5 +1,5 @@
 # CMT-TM-Solver
-In this repository, there are two version implemented for the Coupled Mode Theory. The first one is executed based on the output of the TMT_solver, which works for TM modes. THe other one is an independent version that can perform analysis in TE or TM, but is limited to 5 layers.
+In this repository, there are two version implemented for the Coupled Mode Theory. The first one is executed based on the output of the TMT_solver, which works for TM modes. THe other one is an independent version that can perform analysis in TE, but is currently limited to 5 layers.
 
 ### To run the first version
 1. Run the TMT_solver with the structure you wish to analyse
